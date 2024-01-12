@@ -1,12 +1,12 @@
-### Hey there, I'm Đorđe👋
+### Hey there, I'm Đorđe 👋
 
 I'm a 22-year-old Software Engineer from Serbia, who is constantly trying to turn ideas into elegant solutions through code.
 
 ## 🔭 Current Focus
 
-- I'm working as a Junior Software Engineer at [Red Black Tree](https://www.rbt.rs/), where my work includes diving into diverse projects where I build and learn new things.
-- Currently learning React and exploring new tools and libraries to enhance my knowledge.
-- I'm pursuing my Masters Degree in Software Engineering, after I successfully got my BCS degree in 2023.
+- I'm a Junior Software Engineer at [Red Black Tree](https://www.rbt.rs/), where my work includes diving into diverse projects where I build and learn new things.
+- I'm currently learning React and exploring new tools and libraries to enhance my knowledge.
+- I'm pursuing my Master's Degree in Software Engineering after successfully getting my BCS degree in 2023.
 
 ## 🔧 Tech Stack
 
@@ -29,4 +29,4 @@ I always want to expand my knowledge and stay ahead in the tech world, so these 
 
 ## 📫 Contact
 
-You have a business inquiry or just want to say hi? Reach me on [djordje.jovanoviic@gmail.com](mailto:djordje.jovanoviic@gmail.com).
+Do you have a business inquiry or just want to say hi? Reach me at [djordje.jovanoviic@gmail.com](mailto:djordje.jovanoviic@gmail.com).
