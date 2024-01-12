@@ -18,7 +18,7 @@ I always want to expand my knowledge and stay ahead in the tech world, so these 
 - Java and Spring Boot development
 - OAuth 2.0
 - PostgreSQL database management
-- REST and RPC APIS
+- REST and RPC APIs
 
 ## ✨ Fun Facts
 
