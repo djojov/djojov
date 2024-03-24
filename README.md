@@ -1,6 +1,6 @@
 ### Hey there, I'm Đorđe 👋
 
-I'm a 22-year-old Software Engineer from Serbia, who is constantly trying to turn ideas into elegant solutions through code.
+I'm a 23-year-old Software Engineer from Serbia, who is constantly trying to turn ideas into elegant solutions through code.
 
 ## 🔭 Current Focus
 
