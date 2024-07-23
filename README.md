@@ -29,4 +29,4 @@ I always want to expand my knowledge and stay ahead in the tech world, so these 
 
 ## 📫 Contact
 
-Do you have a business inquiry or just want to say hi? Reach me at [djordje.jovanoviic@gmail.com](mailto:djordje.jovanoviic@gmail.com).
+Do you have a business inquiry or just want to say hi? Reach me at [jvndor@gmail.com](mailto:jvndor@gmail.com).
